@@ -1,22 +1,13 @@
 # PROYECTO
-SI
+========EQUIPO 4:=============== 
+GUAJOLOTES DE TUXTEPEC
 
-EQUIPO 4: GUAJOLOTES DE TUXTEPEC
+========GRUPO:==================  
+3B MECATRONICA
 
-
-GRUPO:  3B MECATRONICA
-
-
-INTEGRANTES:
-
-LEONEL ARENAS PÉREZ
-
+========INTEGRANTES:============
+LEONEL ARENAS PEREZ
 CRISTOBAL CAMACHO GARIBALDO
-
 GERARDO SAID HORTA DE ALBA
-
-JESUS ALEJANDRO LOPÉZ ESPINOZA
-
+JESUS ALEJANDRO LOPEZ ESPINOZA
 CARLOS JAVIER NAVARRO SOLORSANO 
-             
-Profe le intentamos con el documeto que mando, viendo videos y preguntando a los compañeros pero no nos salio lo de los repositorios he instalar el giphup
