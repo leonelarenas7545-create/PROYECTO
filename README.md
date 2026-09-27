@@ -1,11 +1,14 @@
 # PROYECTO
 ========EQUIPO 4:===============
+
 GUAJOLOTES DE TUXTEPEC.
 
 ========GRUPO:=================
+
 3B MECATRONICA.
 
 ========INTEGRANTES:============
+
 LEONEL ARENAS PEREZ.
 
 CRISTOBAL CAMACHO GARIBALDO.
